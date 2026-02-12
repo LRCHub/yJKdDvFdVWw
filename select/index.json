@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Wizard CLUB",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-12T13:54:45.720643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wizard CLUB",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_Wizard_CLUB_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wizard Club",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_Wizard_Club_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wizard CLUB (KING'S PARADE at Yokohama Arena)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_Wizard_CLUB_(KING'S_PARADE_at_Yokohama_Arena)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wizard CLUB (Live)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_Wizard_CLUB_(Live)_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wizard CLUB",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_Wizard_CLUB_UVERworld.txt"
+    }
+  ]
+}
